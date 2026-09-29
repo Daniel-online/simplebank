@@ -1,0 +1,81 @@
+--2026-09-11 17:19:11--  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Resolving github.com (github.com)... 4.228.31.150
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:21:26--  (try: 2)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:23:42--  (try: 3)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:26:01--  (try: 4)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:28:19--  (try: 5)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:30:39--  (try: 6)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:32:59--  (try: 7)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:35:22--  (try: 8)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:37:44--  (try: 9)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:40:06--  (try:10)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:42:31--  (try:11)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:44:54--  (try:12)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:47:17--  (try:13)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:49:41--  (try:14)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:52:04--  (try:15)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:54:27--  (try:16)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:56:51--  (try:17)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 17:59:14--  (try:18)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 18:01:37--  (try:19)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Retrying.
+
+--2026-09-11 18:04:01--  (try:20)  http://github.com/golang-migrate/migrate/releases/latest/download/migrate.linux-amd64.deb
+Connecting to github.com (github.com)|4.228.31.150|:80... failed: Connection timed out.
+Giving up.
+
