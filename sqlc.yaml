@@ -1,12 +1,25 @@
 version: "2"
-cloud:
-    organization: ""
-    project: ""
-    hostname: ""
-servers: []
-sql: []
-overrides:
-    go: null
-plugins: []
-rules: []
-options: {}
+sql:
+  - schema: "db/migration"
+    queries: "db/query"
+    engine: "postgresql"
+    gen:
+      go:
+        package: "db"
+        out: "db/sqlc"
+        sql_package: "pgx/v5" # Ou "database/sql" se estiver usando a biblioteca padrão do Go
+        emit_json_tags: true
+        emit_prepared_queries: false
+        emit_interface: false
+# cloud:
+#     organization: ""
+#     project: ""
+#     hostname: ""
+# servers: []
+# sql: []
+# overrides:
+
+#     go: null
+# plugins: []
+# rules: []
+# options: {}
